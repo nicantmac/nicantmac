@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm Nicantmac 👋
+
+Welcome to my GitHub profile!
+
+## 🚀 About Me
+- 💻 Developer, coder, and tech enthusiast
+- 🌱 Always learning something new
+- 🤝 Open to collaboration on interesting projects
+
+## 🛠️ Technologies & Tools
+- Python, JavaScript, TypeScript
+- React, Node.js, Express
+- Docker, Git, GitHub Actions
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/nicantmac)
+- [Twitter/X](https://twitter.com/nicantmac)
+
+---
+
+_Thanks for visiting!_
