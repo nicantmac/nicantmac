@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Nicantmac 👋
 
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+
+## 🧰 Things I Code With
+
+
 Welcome to my GitHub profile!
 
 ## 🚀 About Me
