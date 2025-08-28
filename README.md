@@ -17,15 +17,27 @@ Here are some ideas to get you started:
 
 <h1 align="center">📎Hi! I'm Nick 👋🏼</h1>
 <h3 align="center">🧑🏼‍💻 Full-Stack Dev 🛠️ | 🌬️ Mental Health First 🐳 | 🌎 ASL Translator 🤟🏼</h3>
-<p align="center">- Building scalable, builing with passion through and clean logic -</p>
+<p align="center">- Building scalable, builing with passion through and clean logic -</p><br>
 
-### 🧑🏽‍🦱 really quick...
-<p>Senior @ UMBC studying Information Systems and building my way into full-stack development. I’ve developed much passion in crafting interactive UIs with modern Front & Back-end tools, and I’m actively expanding my realm into embedded systems. Outside of code, you’ll find me 🛼roller skating, 🎹playing piano, 🧶crocheting, or 🌐learning new languages (ASL and French are my current obsessions).</p>
+
+<h3 align="center">🧑🏽‍🦱 really quick...</h3>
+<p align="center">Senior @ UMBC studying Information Systems and building my way into full-stack development. I’ve developed much passion in crafting interactive UIs with modern Front & Back-end tools, and I’m actively expanding my realm into embedded systems. Outside of code, you’ll find me 🛼roller skating, 🎹playing piano, 🧶crocheting, or 🌐learning new languages (ASL and French are my current obsessions).</p>
+
 
 #### my two truths and a lie
 <li>🤸🏼‍♂️ I can do a backflip</li>
 <li>✨ I can play golden hour by JVKE</li>
 <li>😒 I like LeetCoding</li>
+
+<h1 align="center">Frontend & Dev Tools </h1>
+<div align="center">
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+
+</div>
+
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
