@@ -17,10 +17,16 @@ Here are some ideas to get you started:
 
 <h1 align="center">📎Hi! I'm Nick 👋🏼</h1>
 <h3 align="center">🧑🏼‍💻 Full-Stack Dev 🛠️ | 🌬️ Mental Health First 🐳 | 🌎 ASL Translator 🤟🏼</h3>
-<p align="center">- Building scalable, builing with passion through and clean logic -</p><br>
+<p align="center">- Building scalable, builing with passion through and clean logic -</p>
 
 ### 🧑🏽‍🦱 really quick...
-Senior @ UMBC studying Information Systems and building my way into full-stack development. I’ve developed much passion in crafting interactive UIs with modern Front & Back-end tools, and I’m actively expanding my realm into embedded systems.<br>
+<p>Senior @ UMBC studying Information Systems and building my way into full-stack development. I’ve developed much passion in crafting interactive UIs with modern Front & Back-end tools, and I’m actively expanding my realm into embedded systems. Outside of code, you’ll find me 🛼roller skating, 🎹playing piano, 🧶crocheting, or 🌐learning new languages (ASL and French are my current obsessions).</p>
+
+#### my two truths and a lie
+<li>🤸🏼‍♂️ I can do a backflip</li>
+<li>✨ I can play golden hour by JVKE</li>
+<li>😒 I like LeetCoding</li>
+
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -48,27 +54,3 @@ Senior @ UMBC studying Information Systems and building my way into full-stack d
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=white&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)
-
-
-## 🧰 Things I Code With
-
-
-Welcome to my GitHub profile!
-
-## 🚀 About Me
-- 💻 Developer, coder, and tech enthusiast
-- 🌱 Always learning something new
-- 🤝 Open to collaboration on interesting projects
-
-## 🛠️ Technologies & Tools
-- Python, JavaScript, TypeScript
-- React, Node.js, Express
-- Docker, Git, GitHub Actions
-
-## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/nicantmac)
-- [Twitter/X](https://twitter.com/nicantmac)
-
----
-
-_Thanks for visiting!_
