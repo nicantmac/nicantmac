@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **nicantmac/nicantmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Nicantmac 👋
+
+
+<h1 align="center">📎Hi! I'm Nick 👋🏼</h1>
+<h3 align="center">🧑🏼‍💻 Full-Stack Dev 🛠️ | 🌬️ Mental Health First 🐳 | 🌎 ASL Translator 🤟🏼</h3>
+<p align="center">- Building scalable, builing with passion through and clean logic -</p>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
