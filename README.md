@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 <h3 align="center">🧑🏽‍🦱 really quick...</h3>
 <p align="center">Senior @ UMBC studying Information Systems and building my way into full-stack development. I’ve developed much passion in crafting interactive UIs with modern Front & Back-end tools, and I’m actively expanding my realm into embedded systems. Outside of code, you’ll find me 🛼roller skating, 🎹playing piano, 🧶crocheting, or 🌐learning new languages (ASL and French are my current obsessions).</p><br>
 
-#### my two truths and a lie
+### my two truths and a lie
 <li>🤸🏼‍♂️ I can do a backflip</li>
 <li>✨ I can play golden hour by JVKE</li>
 <li>😒 I like LeetCoding</li>
 
-#### currently programming in...
+### currently programming in...
 <a href="https://skillicons.dev">
-    <img height="30px" src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,mysql" />
+    <img height="35px" src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,mysql" />
 </a><br>
 
 <div align="center">
