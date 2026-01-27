@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 <div align="center">
 <h1>my everyday stack</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,react,tailwind,figma,nodejs,expressjs,flask,supabase,docker,postman,mysql,git,aws" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,react,figma,nodejs,expressjs,flask,supabase,docker,postman,mysql,git,aws" />
   </a>
 </div>
