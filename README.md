@@ -20,11 +20,6 @@ Here are some ideas to get you started:
 <h3 align="center">🧑🏽‍🦱 really quick...</h3>
 <p align="center">Senior @ UMBC studying Information Systems and building my way into full-stack development. I’ve developed much passion in crafting interactive UIs with modern Front & Back-end tools, and I’m actively expanding my realm into embedded systems. Outside of code, you’ll find me 🛼roller skating, 🎹playing piano, 🧶crocheting, or 🌐learning new languages (ASL and French are my current obsessions).</p><br>
 
-<h3>🔗 Live Site</h3>
-<p>Learn More - https://learnflip.netlify.app/</p>
-<h3>📦 Status</h3>
-<p>Actively in development/</p>
-
 ### my two truths and a lie
 <li>🤸🏼‍♂️ I can do a backflip</li>
 <li>✨ I can play golden hour by JVKE</li>
