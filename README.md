@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">😉 Hi! I'm Nick 👋🏼</h1>
 <h3 align="center">🧑🏼‍💻 Full-Stack Dev 🛠️ | 🌬️ Mental Health First 🐳 | 🌎 ASL Translator 🤟🏼</h3>
-<p align="center">- 📎Building scalable, builing with passion through and clean logic -</p><br>
-
+<br/>
 
 <h3 align="center">🧑🏽‍🦱 really quick...</h3>
 <p align="center">Senior @ UMBC studying Information Systems and building my way into full-stack development. I’ve developed much passion in crafting interactive UIs with modern Front & Back-end tools, and I’m actively expanding my realm into embedded systems. Outside of code, you’ll find me 🛼roller skating, 🎹playing piano, 🧶crocheting, or 🌐learning new languages (ASL and French are my current obsessions).</p><br>
