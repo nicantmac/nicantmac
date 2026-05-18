@@ -12,16 +12,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">😉 Hi! I'm Nick 👋🏼</h1>
-<h3 align="center">🧑🏼‍💻 Full-Stack Dev 🛠️ | 🌬️ Mental Health First 🐳 | 🌎 ASL Translator 🤟🏼</h3>
+<h1 align="center">😉 Hi! I'm nick</h1>
+<h4 align="center">🧑🏼‍💻 full-stack dev | 🌎 ASL translator | 🐳 mental health first</h4>
 <br/>
 
-<h3 align="center">🧑🏽‍🦱 really quick...</h3>
-<p align="center">Senior @ UMBC studying Information Systems and building my way into full-stack development. I’ve developed much passion in crafting interactive UIs with modern Front & Back-end tools, and I’m actively expanding my realm into embedded systems. Outside of code, you’ll find me 🛼roller skating, 🎹playing piano, 🧶crocheting, or 🌐learning new languages (ASL and French are my current obsessions).</p><br>
+<!-- <h4 align="center">🧑🏽‍🦱 really quick...</h4> -->
+<p align="center">Building my way into full-stack development. I’ve developed much passion in crafting interactive UIs with modern Front & Back-end tools, and I’m actively expanding my realm into embedded systems. Outside of code, you’ll find me 🛼roller skating, 🎹playing piano, 🧶crocheting, or 🌐learning new languages (ASL and French are my current obsessions).</p><br>
 
 ### my two truths and a lie
 <li>🤸🏼‍♂️ I can do a backflip</li>
-<li>✨ I can play golden hour by JVKE</li>
+<li>✨ I can play piano</li>
 <li>😒 I like LeetCoding</li>
 
 ### currently programming in...
